@@ -1,4 +1,4 @@
-def test_empty():
+def empty():
     assert True
 
 
