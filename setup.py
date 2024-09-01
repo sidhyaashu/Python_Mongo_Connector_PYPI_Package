@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from typing import List
 
 
 with open('README.md', 'r', encoding='utf-8') as f:
@@ -8,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.1"
 
 REPO_NAME = "Python_Mongo_Connector_PYPI_Package"
-PKG_NAME = "mongodb-connector-pkg"
+PKG_NAME = "PyMongodbConnector"
 AUTHOR_USER_NAME = "sidhyaashu"
 AUTHOR_EMAIL = "ashutoshsidhya69@gmail.com"
 
